@@ -1,7 +1,6 @@
 # Islamiat Gbajumo
 
-## Project 
-## Exploring Digital Health Adoption and Challenges in Healthcare Professionals
+## Project: Exploring Digital Health Adoption and Challenges in Healthcare Professionals
 
 This project aims to explore the factors influencing the adoption of digital health tools among healthcare professionals(Doctors, Nurses, Community Health Extension workers, Pharmacist etc) and identify potential areas for improvement, leveraging data gotten from a Whatsapp community of health professionals. 
 
