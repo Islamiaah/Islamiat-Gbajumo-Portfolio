@@ -16,4 +16,5 @@ Before this, the other Health professionals and I argued that only Lagos, Ogun, 
 
 ### Insight 2 
 ![](/Images/Satae%20and%20daily%20use.png)
-\nLagos has the highest number of health professionals who use digital health tools daily. This accounts for 15 health professionals out of 33, with Delta coming in 2nd highest with 3 health professionals using digital tools. However, Lagos also had the highest number of health professionals not using digital tools. Accounting for 7 out of 33. 
+
+Lagos has the highest number of health professionals who use digital health tools daily. This accounts for 15 health professionals out of 33, with Delta coming in 2nd highest with 3 health professionals using digital tools. However, Lagos also had the highest number of health professionals not using digital tools. Accounting for 7 out of 33. 
