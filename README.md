@@ -11,4 +11,4 @@ Recently, I joined a WhatsApp community of young health professionals who are le
 Disclaimer: These results may not accurately reflect digital tool adoption in Nigeria, as this project is a practice exercise on using data analysis skills to examine and gain insights on the use of technology and current workflows in healthcare delivery.
 
 ### Insight 1 
-
+![](https://github.com/Islamiaah/Islamiat-Gbajumo-Portfolio/blob/main/Images/States%201.png)
