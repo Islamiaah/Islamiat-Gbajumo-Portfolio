@@ -30,3 +30,16 @@ About 73% of health professionals who took this survey use digital health tools 
 ![](/Images/impact%20on%20workflow.png)              ![](/Images/quality%20of%20training.png)
 
 The majority of health professionals rated themselves as having the highest level of Digital Health Tool Proficiency. Most health professionals reported being satisfied and very satisfied (rating 4 or 5) with using digital health tools to deliver healthcare services. Healthcare professionals who are highly satisfied with their use of digital tools reported significant improvements in workflow and productivity. There is a strong correlation between the quality of training and the level of satisfaction. Respondents who received high-quality training reported greater satisfaction when using digital tools.
+
+### Insight 5 
+![](/Images/job%20title%20vs%20emr%20.png)             ![](/Images/location%20vs%20emr.png)
+
+Doctors showed the highest level of EMR proficiency compared to other health professionals. Lagos also showed the highest level of EMR proficiency compared to other states.
+
+### Insights 6
+![](/Images/Distribution%20of%20challeneges%20.png)        ![](/Images/Distribution%20of%20boundaries%20.png)
+
+33.3% of respondents identified "Technical Issues" as the main challenge when using Digital Health Tools.
+42% Health professionals reported Inadequate Technological Infrastructure like slow internet connections and use of outdated hardware as the major barrier to the adoption of digital health tools.
+
+### Insight 7
