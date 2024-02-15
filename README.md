@@ -38,7 +38,7 @@ The majority of health professionals rated themselves as having the highest leve
 Doctors showed the highest level of EMR proficiency compared to other health professionals. Lagos also showed the highest level of EMR proficiency compared to other states.
 
 ### Insights 6
-![]([/Images/newplot-4.png))        ![]([/Images/newplot-5.png))
+![]([/Images/newplot-4.png)        ![]([/Images/newplot-5.png)
 
 33.3% of respondents identified "Technical Issues" as the main challenge when using Digital Health Tools.
 42% Health professionals reported Inadequate Technological Infrastructure like slow internet connections and use of outdated hardware as the major barrier to the adoption of digital health tools.
