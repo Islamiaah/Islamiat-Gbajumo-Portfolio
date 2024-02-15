@@ -37,9 +37,39 @@ The majority of health professionals rated themselves as having the highest leve
 Doctors showed the highest level of EMR proficiency compared to other health professionals. Lagos also showed the highest level of EMR proficiency compared to other states.
 
 ### Insights 6
-![](/Images/Distribution%20of%20challeneges%20.png)        ![](/Images/Distribution%20of%20boundaries%20.png)
+![]([/Images/newplot-4.png))        ![]([/Images/newplot-5.png))
 
 33.3% of respondents identified "Technical Issues" as the main challenge when using Digital Health Tools.
 42% Health professionals reported Inadequate Technological Infrastructure like slow internet connections and use of outdated hardware as the major barrier to the adoption of digital health tools.
 
 ### Insight 7
+
+![](/Images/percieved%20impact%20.png)         ![](/Images/Improvements%20in%20patients%20outcomes%20.png)
+![](/Images/Access%20to%20IT%20support%20and%20training%20.png)
+
+Majority of health professionals believe the top impact of Digital Health Tools is Improved accuracy and Reduced errors.
+Other percieved impact include: Efficient communication, Improved access to care, Reduced admin burden and Patient satisfaction
+79% health professionals believe there are improvements in patients outcomes due to the use of Digital health tools.
+Only 27% health professionals do not have access to Hardware and softwares
+85% health professionals reported ease and efficiency with using Digital tools
+79% health professionals have access to Supportive tech infrastructures
+27% of health professionals do not have access to IT support and trainigs.
+73% of health professionals have requested for assistance while using Digital tools.
+
+### Insight 7 
+
+![](/Images/Training%20quality%20.png)
+
+Most health professionals scored the quaility of training they got on using Digital healt tools as 4/5. Which means the training was good. 
+
+About 97% of Health Professionals are motivated to improve their digital health skills
+Health professionals gave actionable recommedations in the designing and implementation of digital tools
+The Recommendations are to:
+- Make digital tools more user friendly.
+- Address privacy concerns through improved security measures.
+- Update software and stable internet connection.
+- Ensure interoperability with Clinical Desicion support.
+
+
+While this project is not concluded and i need more data from all over the country to fully understand the state of Digital health adoption in the country. 
+From this current analysis, the main challenges and barrier to adoption are technical issues like lack of software, hardware, slow internet connections or even use of outdated hardware.
