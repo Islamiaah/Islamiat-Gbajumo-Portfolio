@@ -12,6 +12,7 @@ Disclaimer: These results may not accurately reflect digital tool adoption in Ni
 
 ### Insight 1 
 ![](/Images/States2.png)
+
 Before this, the other Health professionals and I argued that only Lagos, Ogun, and Abuja would have centers using digital health tools in their health facilities due to poor infrastructure in most of the other states in Nigeria. However, as predicted, Lagos has the highest number of health professionals and facilities using Digital health tools. Dataphyte reported that Lagos had the highest number of health facilities in 2022, with a total of 2,333. The survey found that 66.7% of healthcare professionals worked in Lagos-based facilities.
 
 ### Insight 2 
