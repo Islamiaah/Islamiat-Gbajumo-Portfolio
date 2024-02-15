@@ -45,7 +45,8 @@ Doctors showed the highest level of EMR proficiency compared to other health pro
 
 ### Insight 7
 
-![](/Images/percieved%20impact%20.png)         ![](/Images/Improvements%20in%20patients%20outcomes%20.png)
+![](/Images/percieved%20impact%20.png)        
+![](/Images/Improvements%20in%20patients%20outcomes%20.png)
 ![](/Images/Access%20to%20IT%20support%20and%20training%20.png)
 
 Majority of health professionals believe the top impact of Digital Health Tools is Improved accuracy and Reduced errors.
