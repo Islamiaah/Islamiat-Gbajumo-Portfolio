@@ -57,7 +57,7 @@ Only 27% health professionals do not have access to Hardware and softwares
 27% of health professionals do not have access to IT support and trainigs.
 73% of health professionals have requested for assistance while using Digital tools.
 
-### Insight 7 
+### Insight 8 
 
 ![](/Images/Training%20quality%20.png)
 
@@ -72,5 +72,6 @@ The Recommendations are to:
 - Ensure interoperability with Clinical Desicion support.
 
 
+### Conclusion
 While this project is not concluded and i need more data from all over the country to fully understand the state of Digital health adoption in the country. 
 From this current analysis, the main challenges and barrier to adoption are technical issues like lack of software, hardware, slow internet connections or even use of outdated hardware.
