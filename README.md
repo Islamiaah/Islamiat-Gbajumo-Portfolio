@@ -28,7 +28,7 @@ About 73% of health professionals who took this survey use digital health tools 
 ### Insight 4
  ![](/Images/EMR%20Proficiency%20.png)              ![](/Images/Satisfaction%20level.png)
 
-![](/Images/impact%20on%20workflow.png)              ![](/Images/quality%20of%20training.png)
+![](/Images/impact%20on%20workflow.png)              ![](/Images/Training%20quality%20.png)
 
 The majority of health professionals rated themselves as having the highest level of Digital Health Tool Proficiency. Most health professionals reported being satisfied and very satisfied (rating 4 or 5) with using digital health tools to deliver healthcare services. Healthcare professionals who are highly satisfied with their use of digital tools reported significant improvements in workflow and productivity. There is a strong correlation between the quality of training and the level of satisfaction. Respondents who received high-quality training reported greater satisfaction when using digital tools.
 
