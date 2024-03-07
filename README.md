@@ -16,28 +16,33 @@ Disclaimer: These results may not accurately reflect digital tool adoption in Ni
 Before this, the other Health professionals and I argued that only Lagos, Ogun, and Abuja would have centers using digital health tools in their health facilities due to poor infrastructure in most of the other states in Nigeria. However, as predicted, Lagos has the highest number of health professionals and facilities using Digital health tools. Dataphyte reported that Lagos had the highest number of health facilities in 2022, with a total of 2,333. The survey found that 66.7% of healthcare professionals worked in Lagos-based facilities.
 
 ### Insight 2 
+
 ![](/Images/Satae%20and%20daily%20use.png)
 
 Lagos has the highest number of health professionals who use digital health tools daily. This accounts for 15 health professionals out of 33, with Delta coming in 2nd highest with 3 health professionals using digital tools. However, Lagos also had the highest number of health professionals not using digital tools. Accounting for 7 out of 33. 
 
 ### Insight 3 
- ![](/Images/Daily%20use%20of%20digital%20health%20tools%20.png)
+
+![](/Images/Daily%20use%20of%20digital%20health%20tools%20.png)
 
 About 73% of health professionals who took this survey use digital health tools daily.
 
 ### Insight 4
- ![](/Images/EMR%20Proficiency%20.png)              ![](/Images/Satisfaction%20level.png)
+
+![](/Images/EMR%20Proficiency%20.png)              ![](/Images/Satisfaction%20level.png)
 
 ![](/Images/impact%20on%20workflow.png)              ![](/Images/Training%20quality%20.png)
 
 The majority of health professionals rated themselves as having the highest level of Digital Health Tool Proficiency. Most health professionals reported being satisfied and very satisfied (rating 4 or 5) with using digital health tools to deliver healthcare services. Healthcare professionals who are highly satisfied with their use of digital tools reported significant improvements in workflow and productivity. There is a strong correlation between the quality of training and the level of satisfaction. Respondents who received high-quality training reported greater satisfaction when using digital tools.
 
 ### Insight 5 
+
 ![](/Images/job%20title%20vs%20emr%20.png)             ![](/Images/location%20vs%20emr.png)
 
 Doctors showed the highest level of EMR proficiency compared to other health professionals. Lagos also showed the highest level of EMR proficiency compared to other states.
 
 ### Insights 6
+
 ![](/Images/Distribution%20of%20challeneges%20.png)        ![](/Images/Distribution%20of%20boundaries%20.png)
 
 33.3% of respondents identified "Technical Issues" as the main challenge when using Digital Health Tools.
