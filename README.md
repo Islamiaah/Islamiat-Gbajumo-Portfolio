@@ -16,7 +16,7 @@ Disclaimer: These results may not accurately reflect digital tool adoption in Ni
 Before this, the other Health professionals and I argued that only Lagos, Ogun, and Abuja would have centers using digital health tools in their health facilities due to poor infrastructure in most of the other states in Nigeria. However, as predicted, Lagos has the highest number of health professionals and facilities using Digital health tools. Dataphyte reported that Lagos had the highest number of health facilities in 2022, with a total of 2,333. The survey found that 66.7% of healthcare professionals worked in Lagos-based facilities.
 
 ### Insight 2 
- ![](/Images/Satae%20and%20daily%20use.png)
+![](/Images/Satae%20and%20daily%20use.png)
 
 Lagos has the highest number of health professionals who use digital health tools daily. This accounts for 15 health professionals out of 33, with Delta coming in 2nd highest with 3 health professionals using digital tools. However, Lagos also had the highest number of health professionals not using digital tools. Accounting for 7 out of 33. 
 
@@ -38,14 +38,14 @@ The majority of health professionals rated themselves as having the highest leve
 Doctors showed the highest level of EMR proficiency compared to other health professionals. Lagos also showed the highest level of EMR proficiency compared to other states.
 
 ### Insights 6
-![](/Images/newplot-4.png)        ![](/Images/newplot-5.png)
+![](/Images/Distribution%20of%20challeneges%20.png)        ![](/Images/Distribution%20of%20boundaries%20.png)
 
 33.3% of respondents identified "Technical Issues" as the main challenge when using Digital Health Tools.
 42% Health professionals reported Inadequate Technological Infrastructure like slow internet connections and use of outdated hardware as the major barrier to the adoption of digital health tools.
 
 ### Insight 7
 
-![](/Images/percieved%20impact%20.png)        
+![](/Images/percieved%20impact%20.png)       
 ![](/Images/Improvements%20in%20patients%20outcomes%20.png)
 ![](/Images/Access%20to%20IT%20support%20and%20training%20.png)
 
